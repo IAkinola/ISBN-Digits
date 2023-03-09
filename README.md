@@ -69,7 +69,8 @@ But overrall, well done and I will like to see more of your work.
 
 ## Section B: Projects
 https://github.com/IAkinola/Steam-Market-Web-Scrapper <br>
-https://github.com/IAkinola/dice-app-flutter
+Although I am not done, the plan for this is to have a webapp that users can use to track market items on Steam and recieve notifications when the price
+reaches a threshold set by the user. It is a project dear to me and I hope to finish it very soon.
 
 ## Section C: International Standard Book Numbers
 A package used to check if the digits given is a valid ISBN digit. If it's a ISBN-10 digit it gets converted to a ISBN-13 digit.
