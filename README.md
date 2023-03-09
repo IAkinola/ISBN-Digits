@@ -12,6 +12,8 @@ A package used to check if the digits given is a valid ISBN digit. If it's a ISB
 ## How to use 
 _To Install the package:_ <br>
 
+Although pip works on most OS, alternative package managers include apt, yum or dnf for Linux and Homebrew or MacPorts for macOS 
+
 **pip install wheel<br>**
 **python setup.py bdist_wheel<br>**
 **python setup.py sdist<br>**
