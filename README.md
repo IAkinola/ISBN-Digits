@@ -84,4 +84,17 @@ Although pip works on most OS, alternative package managers include apt, yum or 
 **python setup.py sdist<br>**
 **Run main.py for main package and test_isbn.py for test case<br>**
 
+### Worst-Case Space Complexity
+My solution scales according to the input size, it has linear complexity, O(n), and the amount of 
+memory that would be used is proportional to n. The solution requires iterating through the input
+to run its calculations and the total space needed for the solution to store the input is also a factor 
+to n. Another factor would be the intermediate variables, like the sum and product of the digits.<br>
+
+Luckily the solution does not need to compute if the input is less than 10 digits or more than 13 
+digits and most of the variables are usually small and aren't necearrily related to the size of the 
+input, the spaec they take up is minimal. Additionally, the only time the solution makes a major computation
+is when the input is a ISNB-10 digit.<br>
+
+In conclusion, the solution has a relatively low space complexity.<br>
+
 ## Section D: Loom Video Submission
