@@ -73,7 +73,7 @@ Although I am not done, the plan for this is to have a webapp that users can use
 reaches a threshold set by the user. It is a project dear to me and I hope to finish it very soon.
 
 ## Section C: International Standard Book Numbers
-A package used to check if the digits given is a valid ISBN digit. If it's a ISBN-10 digit it gets converted to a ISBN-13 digit.
+A solution used to check if the digits given is a valid ISBN digit. If it's a ISBN-10 digit it gets converted to a ISBN-13 digit.
 ### How to use 
 _To Install the package:_ <br>
 
