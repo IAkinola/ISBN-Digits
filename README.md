@@ -98,3 +98,5 @@ is when the input is a ISNB-10 digit.<br>
 In conclusion, the solution has a relatively low space complexity.<br>
 
 ## Section D: Loom Video Submission
+
+Video Link: https://www.loom.com/share/5efbcd7bd41c4191847fc9586ef305d6
